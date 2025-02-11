@@ -126,3 +126,32 @@ article {
   padding: 1em 0;
   text-align: right;
 }
+
+.call-to-action {
+  padding: 8em 13em;
+}
+
+.cat-container {
+  display: flex;
+  align-items: center;
+  background: #3882F6;
+  border-radius: 7px;
+  padding: 0 5em;
+  justify-content: space-around;
+  padding: 5em;
+}
+
+h3 {
+  font-size: 24px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
+.cat-text {
+  font-size: 16px;
+  color: #e5e7eb;
+}
+
+.cat-btn {
+  border: 1px solid #f9faf8;
+}
