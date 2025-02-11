@@ -155,3 +155,13 @@ h3 {
 .cat-btn {
   border: 1px solid #f9faf8;
 }
+
+footer {
+  background: #1f2937;
+}
+
+.footer-description {
+  text-align: center;
+  padding: 2.5em;
+  color: #e5e7eb;
+}
